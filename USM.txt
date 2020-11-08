@@ -1,1 +1,1 @@
-echo "Universitas Semarang"
+"Universitas Semarang"
